@@ -33,7 +33,6 @@ int MinTime(vector<int> &arr, int n, int m) {
     sum += arr[i];
   }
 
-
   int start = maximum, end = sum, ans = -1;
 
   while (start <= end) {
@@ -54,7 +53,6 @@ int main() {
 
   vector<int> arr = {40, 30, 10, 20};
   int n = 4, m = 2;
-  
 
   cout << "Minimum Time:" << MinTime(arr, n, m) << endl;
 

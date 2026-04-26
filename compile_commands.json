@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "c:/Tanush/DSA",
+    "command": "C:/msys64/ucrt64/bin/g++.exe -std=c++17 painterPartition.cpp",
+    "file": "painterPartition.cpp"
+  }
+]

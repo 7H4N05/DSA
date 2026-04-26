@@ -1,0 +1,8 @@
+{
+    "clangd.arguments": [
+        "--query-driver=**",
+        "--fallback-style=llvm",
+        "--extra-arg=-std=c++17"
+    ],
+    "C_Cpp.intelliSenseEngine": "disabled"
+}
